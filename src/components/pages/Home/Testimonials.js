@@ -7,28 +7,28 @@ import TestimonialCard from './TestimonialCard';
 
 const customers = [
   {
-    fullName: 'Maria Sanchez',
+    fullName: 'Mario Puzo',
     image: customer1Image,
     rating: [1, 1, 1, 1, 0.5],
     says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
   },
   {
-    fullName: 'Antony Clifton',
+    fullName: 'Agatha Christie',
     image: customer2Image,
     rating: [1, 1, 1, 1, 1],
     says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
   },
   {
-    fullName: 'Tamika Jackson',
+    fullName: 'Madeline Miller',
     image: customer3Image,
     rating: [1, 1, 1, 1, 0.5],
     says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
   },
   {
-    fullName: 'Brandon Ming',
+    fullName: 'Arthor Conan',
     image: customer4Image,
     rating: [1, 1, 1, 1],
     says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
