@@ -27,7 +27,7 @@ describe('Booking page', () => {
       </MemoryRouter>
     );
 
-    const bookingDate = '2023-04-01';
+    const bookingDate = '2024-03-03';
     const dateInput = screen.getByLabelText(/Date/);
     const initialTimeOptions = await screen.findAllByTestId('booking-time-option');
     fireEvent.change(dateInput, { target: { value: bookingDate } });
